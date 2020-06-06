@@ -1,4 +1,5 @@
 {
+	"id": 3,
 	"title": "Terrible Knights and Whatnot",
 	"puzzle": [
 		["", "", "", "", "", "", "", 3,  ""],
@@ -12,5 +13,6 @@
 		["", "", 7,  "", "", "", "", "", ""]
 	],
 	"created": "2020-06-03",
-	"rules": "Normal Sudoku rules and anti-knight's move rules apply. In addition, there must not be an odd number a knight's move away from any 1."
+	"rules": "Normal Sudoku rules and anti-knight's move rules apply. In addition, there must not be an odd number a knight's move away from any 1.",
+	"penpa-link": "https://rjrudman.github.io/penpa-edit/?m=solve&p=zZK5bvQwDIR7P4ZqFhJl0ZLbHFWQIgd+/DCMIEWQJsjmQIrY2HffoUxj9QiB1vRg4P2GpP39+fP89UIFJ3nyFHCS9/XKPX7dpDbO3E0uOHKMK7i5W5e7cV2exmk+0vJ4lvfjino7ri4mN04uOiD1H+T6oAYAu5F6NUDdDSlq5LOR6xPlbITA6qTWier0jcPVkcaJlTPsDjoMtc//tV7XyrU+YAxaYq2XtXqt7uPw9vt6eAcG1k199ApDhiwUCtpmgEsh1v6gcSdmbEA1J+KYNx0zccIiVKdALOhMtfTEw7DpYSAuftPFU/SYR/kZfG98D34wfgCfjc/g66JV9+DrjmsW+GJ8AT8bP3tkbXzckSXG0f7N5whtHAannYv35wXa+Ax+2w9v+8Ede7DciNxofYruweYS5IrlCnLb/YjlCnLFcgW57VxiuYJc/ZyqRu6guXhp/+qru6i1Rz123YQe9cNvT/pbznwC"
 }
