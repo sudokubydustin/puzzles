@@ -1,0 +1,16 @@
+{
+	"title": "Terrible Knights and Whatnot",
+	"puzzle": [
+		["", "", "", "", "", "", "", 3,  ""],
+		[2,  "", "", "", "", "", "", "", ""],
+		[1,  "", "", "", "", "", "", "", ""],
+		["", "", 8,  "", "", "", "", "", ""],
+		["", "", "", "", 9,  "", "", "", ""],
+		["", "", "", "", "", "", "", "", ""],
+		["", "", "", "", "", "", 5,  4,  ""],
+		["", "", "", "", 6,  "", "", "", ""],
+		["", "", 7,  "", "", "", "", "", ""]
+	],
+	"created": "2020-06-03",
+	"rules": "Normal Sudoku rules and anti-knight's move rules apply. In addition, there must not be an odd number a knight's move away from any 1."
+}
